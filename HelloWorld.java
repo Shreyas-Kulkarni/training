@@ -5,5 +5,6 @@ class HelloWorld
     public static void main(String args[]) 
     { 
         System.out.println("Hello World! From AWS and centos to Git."); 
-    } 
+    	System.out.println("Compilation and run automated on Jenkins.");
+	} 
 } 
